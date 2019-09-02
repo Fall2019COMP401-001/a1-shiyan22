@@ -120,7 +120,7 @@ public class A1Example {
 		
 		for (int i=1; i < vals.length; i++) {
 			if (vals[i] > cur_max) {
-				cur_max = vals[i];
+				cur_max = vals[i]; 
 			}
 		}
 		
